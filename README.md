@@ -69,10 +69,9 @@ Let's connect and explore the endless possibilities at the intersection of AI, M
 
 <h2>My Latest Project</h2> 
 <br />
-<p><a href="https://github.com/shkshadab-shk/finexo-html#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shkshadab-shk&repo=finexo-html&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/shkshadab-shk/finexo-html#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shkshadab-shk&repo=finexo-html&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+<p><a href="https://github.com//shadabs-shk#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=&repo=shadabs-shk&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+<p><a href="https://github.com//shadabs-shk#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=&repo=shadabs-shk&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
 <br />
-
 
                     
 
