@@ -2,7 +2,7 @@
 <br /> 
 
                     
-`**Digital Craftsman (Developer / Programmer)**`
+
 
                     
 **`Digital Craftsman (Developer / Programmer)`
@@ -57,10 +57,6 @@ Let's connect and explore the endless possibilities at the intersection of AI, M
 <a href="https://github.com/shkshadab-shk#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=shkshadab-shk&theme=vue#gh-light-mode-only" alt="shkshadab-shk"/></a></p>
 <br/>
 <br />
-
-<p><a href="https://github.com/shkshadab-shk#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=shkshadab-shk&theme=nightowl#gh-dark-mode-only" alt="shkshadab-shk" /></a>
-<a href="https://github.com/shkshadab-shk#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=shkshadab-shk&theme=vue#gh-light-mode-only" alt="shkshadab-shk" /></a></p>
-<br/>
 
 ---
 
