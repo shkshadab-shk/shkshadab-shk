@@ -66,8 +66,8 @@ Let's connect and explore the endless possibilities at the intersection of AI, M
 
 <h2>My Latest Project</h2> 
 <br />
-<p><a href="https://github.com/shkshadab-shk/Stock prediction#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shkshadab-shk&repo=Stock prediction&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/shkshadab-shk/Stock prediction#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shkshadab-shk&repo=Stock prediction&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+<p><a href="https://github.com/shkshadab-shk/Stock Prediction#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shkshadab-shk&repo=Stock Prediction&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+<p><a href="https://github.com/shkshadab-shk/Stock Prediction#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shkshadab-shk&repo=Stock Prediction&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
 <br />
 
 
