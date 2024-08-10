@@ -36,9 +36,10 @@ Let's connect and explore the endless possibilities at the intersection of AI, M
 
 <h2>Languages and Tools</h2> 
 <p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=html,css,javascript,java,rust,python,bootstrap,c,c#,c++&perline=9"  />
+<img width="280px"  src="https://skillicons.dev/icons?i=html,css,javascript,java,rust,python,bootstrap,c,c#,c plus plus,node,react
+&perline=9"  />
 </p>
-<br />
+<br /
 
                     
 
