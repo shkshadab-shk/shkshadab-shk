@@ -1,19 +1,22 @@
-<h1>😄 shadab</h1>
+
+<h1>😄  shadab</h1>
 <br /> 
 
                     
-
+`**Digital Craftsman (Developer / Programmer)**`
 
                     
 **`Digital Craftsman (Developer / Programmer)`
 
                     
 
-<p align="left">Hey there! 👋 I'm shadab , a passionate full-stack developer on a journey to blend the worlds of technology and artificial intelligence. Currently, I'm pursuing a degree in Artificial Intelligence and Machine Learning, driven by my fascination with how intelligent systems can revolutionize our world.
+<p align="left">**Digital Craftsman (Developer / Programmer)
+
+Hey there! 👋 I'm shadab , a passionate full-stack developer on a journey to blend the worlds of technology and artificial intelligence. Currently, I'm pursuing a degree in Artificial Intelligence and Machine Learning, driven by my fascination with how intelligent systems can revolutionize our world.
 
 Outside of academics, I love contributing to open-source projects and sharing my knowledge with the community. You can find me on GitHub, where I actively collaborate on projects, explore new technologies, and showcase my coding endeavor
 
-Let's connect and explore the endless possibilities at the intersection of AI, ML, and software development! 🚀</p>
+Let's connect and explore the endless possibilities at the intersection of AI, ML, and software development! </p>
 <p align="left"> 
   <a href="https://github.com/shkshadab-shk?tab=repositories&sort=stargazers#gh-light-mode-only">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/shkshadab-shk?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
@@ -35,7 +38,7 @@ Let's connect and explore the endless possibilities at the intersection of AI, M
 
 <h2>Languages and Tools</h2> 
 <p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=html,css,java,javascript,bootstrap,php,c,c++&perline=9"  />
+<img width="280px"  src="https://skillicons.dev/icons?i=html,css,javascript,java,rust,python,bootstrap,c,c#,c++&perline=9"  />
 </p>
 <br />
 
@@ -58,22 +61,27 @@ Let's connect and explore the endless possibilities at the intersection of AI, M
 <br/>
 <br />
 
+<p><a href="https://github.com/shkshadab-shk#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=shkshadab-shk&theme=nightowl#gh-dark-mode-only" alt="shkshadab-shk" /></a>
+<a href="https://github.com/shkshadab-shk#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=shkshadab-shk&theme=vue#gh-light-mode-only" alt="shkshadab-shk" /></a></p>
+<br/>
+
 ---
 
 
                     
 
 <h2>My Latest Project</h2> 
-<br/>
-<p><a href="https://github.com/shkshadab-shk/shadabs-shk#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shkshadab-shk&repo=shadabs-shk&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/shkshadab-shk/shadabs-shk#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shkshadab-shk&repo=shadabs-shk&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
-<br/>
+<br />
+<p><a href="https://github.com/shkshadab-shk/Stock prediction#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shkshadab-shk&repo=Stock prediction&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+<p><a href="https://github.com/shkshadab-shk/Stock prediction#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shkshadab-shk&repo=Stock prediction&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+<br />
+
 
                     
 
 <h2>Connect With Me</h2> 
 <p align="left">
-<a href="https://twitter.com/flack758113" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="flack758113" /></a>
+<a href="https://twitter.com/shadab" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shadab" /></a>
 <a href="https://instagram.com/__shadab.___" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__shadab.___" /></a>
-<a href="https://www.linkedin.com/in/shaikh-shadab-b5b3b31b6/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="shadab" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </p>
